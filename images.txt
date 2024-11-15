@@ -1,10 +1,11 @@
 #支持指定架构
 #--platform=linux/arm64
 
-myifeng/k8s.gcr.io_kube-apiserver:v1.17.4
-myifeng/k8s.gcr.io_kube-controller-manager:v1.17.4
-myifeng/k8s.gcr.io_kube-scheduler:v1.17.4
-myifeng/k8s.gcr.io_kube-proxy:v1.17.4
-myifeng/k8s.gcr.io_pause:3.1
-myifeng/k8s.gcr.io_etcd:3.4.3-0
-myifeng/k8s.gcr.io_coredns:1.6.5
+#myifeng/k8s.gcr.io_kube-apiserver:v1.17.4
+#myifeng/k8s.gcr.io_kube-controller-manager:v1.17.4
+#myifeng/k8s.gcr.io_kube-scheduler:v1.17.4
+#myifeng/k8s.gcr.io_kube-proxy:v1.17.4
+#myifeng/k8s.gcr.io_pause:3.1
+#myifeng/k8s.gcr.io_etcd:3.4.3-0
+#myifeng/k8s.gcr.io_coredns:1.6.7
+gcrxio/k8s.gcr.io_coredns:1.6.5
